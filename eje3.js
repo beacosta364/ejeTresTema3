@@ -1,3 +1,4 @@
+// Brayan Estein Acosta CC 1107509939
 //Leer dos números si el primero es mayor mostrar la suma de los dos números, 
 //por otro lado si el segundo es mayor elevar al cuadrado cada número, sumarlos
 // y mostrar su resultado, en caso de que los números sean iguales mostrar la leyenda “los números son iguales”.
